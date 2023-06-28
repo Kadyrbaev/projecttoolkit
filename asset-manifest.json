@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/projecttoolkit/static/css/main.b117e751.css",
+    "main.js": "/projecttoolkit/static/js/main.1b1b9576.js",
+    "index.html": "/projecttoolkit/index.html",
+    "main.b117e751.css.map": "/projecttoolkit/static/css/main.b117e751.css.map",
+    "main.1b1b9576.js.map": "/projecttoolkit/static/js/main.1b1b9576.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b117e751.css",
+    "static/js/main.1b1b9576.js"
+  ]
+}
